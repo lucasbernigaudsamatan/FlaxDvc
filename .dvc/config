@@ -1,0 +1,4 @@
+[core]
+    remote = flaxstorage
+['remote "flaxstorage"']
+    url = /mnt/NAS-arvalis/DVCstorage/flax_dvc/
